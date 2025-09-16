@@ -1,5 +1,36 @@
+<img width="690" height="536" alt="image" src="https://github.com/user-attachments/assets/05492453-91e0-4bd0-8cb2-1cafd4350ba7" />
 
 What is Machine Learning?
+
+Machine learning is a subset of artificial intelligence focused on the development of algorithms and models that enable computers to learn and make predictions or decisions without being explicitly programmed. So, instead of relying on your instructions, ML systems learn from data and improve their performance over time through experience.
+
+The process typically requires you to feed large amounts of data into a machine learning algorithm. Typically, a data scientist builds, refines, and deploys your models. However, with the rise of AutoML (automated machine learning), data analysts can now perform these tasks if the model is not too complex.
+
+The ML algorithm analyzes and identifies patterns, relationships, and trends within the data and then uses these insights to build a mathematical model that can make predictions, can power predictive analytics, or take actions when presented with new, unseen data.
+
+Key ML techniques:
+
+    Supervised Learning: Training a model using labeled data, where the desired output is known, to predict or classify new unseen examples.
+
+    Unsupervised Learning: Discovering patterns and structures within unlabeled data without explicit guidance.
+
+    Semi-Supervised Learning: Combining labeled and unlabeled data to train a model, leveraging both supervised and unsupervised techniques.
+
+    Reinforcement Learning: Teaching an agent to learn optimal behaviors by receiving rewards or punishments based on its actions in an environment.
+
+    Transfer Learning: Utilizing knowledge learned from one task or domain to improve performance on a different but related task or domain.
+
+    Deep Learning: Employing neural networks with multiple layers to learn complex patterns and representations from data.
+
+    Ensemble Learning: Combining multiple models to make predictions or decisions, often resulting in improved accuracy and robustness.
+
+    Active Learning: Interactively selecting and labeling the most informative data instances for training, optimizing the learning process.
+
+    Online Learning: Continuously updating and refining a model as new data arrives in a sequential manner.
+
+    Feature Engineering: Transforming and selecting relevant features from raw data to improve the performance and interpretability of models.
+
+Machine learning has a wide range of applications, including image and speech recognition, natural language processing, recommendation systems, fraud detection, prescriptive analytics, and autonomous vehicles. It plays a crucial role in enabling AI systems to adapt, improve, and perform complex tasks with minimal human intervention.
 
 Machine Learning provides us a statistical tools to explore and do analysis about that particular data.
 Machine Learning (ML) is a subset of Artificial Intelligence (AI) that allows computers to learn from data and make decisions or predictions without being explicitly programmed.
