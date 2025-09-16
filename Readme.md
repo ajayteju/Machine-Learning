@@ -142,45 +142,45 @@ Programming Languages: Python, R
 
 3. Data Preprocessing -
    
-Exploratory Data Analysis (EDA)
-Handling Missing Values
-Handling Outliers
-Categorical Encoding
+Exploratory Data Analysis (EDA),
+Handling Missing Values,
+Handling Outliers,
+Categorical Encoding,
 Normalization & Standardization
 
 4. Feature Engineering & Selection -
    
-Feature Engineering
-Feature Selection Techniques
-Correlation
-Forward Elimination
-Backward Elimination
-Univariate Selection
-Random Forest Importance
-Decision Tree–based Selection
+Feature Engineering,
+Feature Selection Techniques,
+Correlation,
+Forward Elimination,
+Backward Elimination,
+Univariate Selection,
+Random Forest Importance,
+Decision Tree–based Selection,
 
 5. Machine Learning Algorithms -
     
-Regression: Linear Regression, Logistic Regression
-Tree-Based Models: Decision Tree, Random Forest
-Clustering: K-Means
+Regression: Linear Regression, Logistic Regression,
+Tree-Based Models: Decision Tree, Random Forest,
+Clustering: K-Means,
 Other ML Algorithms: Regression & Classification, Clustering
 
 6. Model Optimization -
    
-GridSearch, Randomized Search
-Hyperopt
-Genetic Algorithms
-Hyperparameter Tuning
+GridSearch, Randomized Search,
+Hyperopt,
+Genetic Algorithms,
+Hyperparameter Tuning,
 
 7. Model Deployment & Scaling -
    
-Model Deployments
+Model Deployments,
 Dockers and Kubernetes
 
 9. Projects & Applications
     
-End-to-End ML Projects
+End-to-End ML Projects,
 Applying ML in real-world scenarios
 
 **This roadmap covers the complete cycle**: Programming → Data Preparation → Feature Engineering → Algorithms → Optimization → Deployment → Projects.
