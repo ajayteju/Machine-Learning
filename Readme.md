@@ -1,4 +1,5 @@
-<img width="690" height="536" alt="image" src="https://github.com/user-attachments/assets/05492453-91e0-4bd0-8cb2-1cafd4350ba7" />
+<img width="1689" height="1030" alt="image" src="https://github.com/user-attachments/assets/320e13d4-89bc-44c6-baea-66f475e5cb68" />
+
 
 What is Machine Learning?
 
