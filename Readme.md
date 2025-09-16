@@ -1,5 +1,17 @@
 <img width="1689" height="1030" alt="image" src="https://github.com/user-attachments/assets/320e13d4-89bc-44c6-baea-66f475e5cb68" />
 
+Lifecycle of ML:
+
+1) clean data : 100 , 80 – train, 20 - test
+2) understand nature of data
+3) choose you ML algo
+4) Split the data into training and testing set
+5) train the algo
+6) Understand the pattern
+7) logic/program
+8) New data
+9) Automatically predict/classify on the basis of pre-training
+
 
 What is Machine Learning?
 
