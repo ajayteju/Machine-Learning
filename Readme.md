@@ -99,3 +99,49 @@ Disadvantages of Machine Learning (Simple Words)
 	
 
 👉 In short: ML is powerful, but it needs lots of good data, resources, and care—otherwise, it can be slow, costly, and sometimes wrong.
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/2af1306e-4a3f-437a-a803-ff1b2311c5c2" />
+
+**Machine Learning Roadmap:**
+
+1. Programming Foundations
+Programming Languages: Python, R
+
+2. Data Preprocessing
+Exploratory Data Analysis (EDA)
+Handling Missing Values
+Handling Outliers
+Categorical Encoding
+Normalization & Standardization
+
+3. Feature Engineering & Selection
+Feature Engineering
+Feature Selection Techniques
+Correlation
+Forward Elimination
+Backward Elimination
+Univariate Selection
+Random Forest Importance
+Decision Tree–based Selection
+
+4. Machine Learning Algorithms
+Regression: Linear Regression, Logistic Regression
+Tree-Based Models: Decision Tree, Random Forest
+Clustering: K-Means
+Other ML Algorithms: Regression & Classification, Clustering
+
+5. Model Optimization
+GridSearch, Randomized Search
+Hyperopt
+Genetic Algorithms
+Hyperparameter Tuning
+
+6. Model Deployment & Scaling
+Model Deployments
+Dockers and Kubernetes
+
+7. Projects & Applications
+End-to-End ML Projects
+Applying ML in real-world scenarios
+
+**This roadmap covers the complete cycle**: Programming → Data Preparation → Feature Engineering → Algorithms → Optimization → Deployment → Projects.
