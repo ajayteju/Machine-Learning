@@ -136,17 +136,20 @@ Disadvantages of Machine Learning (Simple Words)
 
 **Machine Learning Roadmap:**
 
-1. Programming Foundations
+1. Programming Foundations -
+   
 Programming Languages: Python, R
 
-2. Data Preprocessing
+3. Data Preprocessing -
+   
 Exploratory Data Analysis (EDA)
 Handling Missing Values
 Handling Outliers
 Categorical Encoding
 Normalization & Standardization
 
-3. Feature Engineering & Selection
+4. Feature Engineering & Selection -
+   
 Feature Engineering
 Feature Selection Techniques
 Correlation
@@ -156,23 +159,27 @@ Univariate Selection
 Random Forest Importance
 Decision Tree–based Selection
 
-4. Machine Learning Algorithms
+5. Machine Learning Algorithms -
+    
 Regression: Linear Regression, Logistic Regression
 Tree-Based Models: Decision Tree, Random Forest
 Clustering: K-Means
 Other ML Algorithms: Regression & Classification, Clustering
 
-5. Model Optimization
+6. Model Optimization -
+   
 GridSearch, Randomized Search
 Hyperopt
 Genetic Algorithms
 Hyperparameter Tuning
 
-6. Model Deployment & Scaling
+7. Model Deployment & Scaling -
+   
 Model Deployments
 Dockers and Kubernetes
 
-7. Projects & Applications
+9. Projects & Applications
+    
 End-to-End ML Projects
 Applying ML in real-world scenarios
 
