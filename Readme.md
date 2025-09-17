@@ -205,3 +205,94 @@ End-to-End ML Projects,
 Applying ML in real-world scenarios
 
 **This roadmap covers the complete cycle**: Programming → Data Preparation → Feature Engineering → Algorithms → Optimization → Deployment → Projects.
+
+
+Python Libraries to learn :
+
+🔹 1. Core Scientific & Data Libraries
+
+These are the backbone for ML—data manipulation, math, and visualization.
+
+NumPy → Arrays, matrices, linear algebra operations.
+
+Pandas → DataFrames, handling CSV/Excel/JSON data, preprocessing.
+
+Matplotlib → Basic plotting and visualization.
+
+Seaborn → Statistical data visualization with advanced plots.
+
+SciPy → Scientific computing, optimization, and statistics.
+
+🔹 2. Machine Learning Libraries
+
+These provide ready-to-use ML algorithms and tools.
+
+Scikit-learn → Most popular ML library (regression, classification, clustering, preprocessing, model evaluation).
+
+XGBoost / LightGBM / CatBoost → Gradient boosting libraries for high-performance ML models.
+
+🔹 3. Deep Learning Libraries
+
+For Neural Networks, DL, and advanced AI.
+
+TensorFlow → Google’s DL framework (with Keras API for simplicity).
+
+Keras → High-level neural network API (often used with TensorFlow).
+
+PyTorch → Flexible, popular in research and production for DL.
+
+🔹 4. Data Preprocessing & Feature Engineering
+
+Scikit-learn (preprocessing module) → Scaling, encoding, imputation.
+
+Category Encoders → One-hot, target, frequency encoding.
+
+Imbalanced-learn (imblearn) → Handle imbalanced datasets (SMOTE, undersampling).
+
+🔹 5. Model Evaluation & Experiment Tracking
+
+MLflow → Track experiments, log metrics, model versioning.
+
+Optuna / Hyperopt → Hyperparameter optimization.
+
+🔹 6. Natural Language Processing (NLP)
+
+NLTK → Classical NLP tasks (tokenization, stemming, POS tagging).
+
+spaCy → Industrial-strength NLP library.
+
+Transformers (Hugging Face) → Pretrained LLMs (BERT, GPT, etc.).
+
+🔹 7. Computer Vision (CV)
+
+OpenCV → Image processing, computer vision basics.
+
+Pillow (PIL) → Simple image manipulation.
+
+torchvision / TensorFlow Vision APIs → Datasets and models for CV.
+
+🔹 8. Big Data & Scaling ML
+
+Dask → Parallel computing, scalable Pandas.
+
+PySpark (MLlib) → Machine learning on big data.
+
+🔹 9. Deployment & Integration
+
+Flask / FastAPI → Serving ML models as APIs.
+
+ONNX → Model portability across frameworks.
+
+Docker → Containerization of ML workflows (not a Python lib, but essential).
+
+✅ Suggested Learning Order (Beginner → Advanced):
+
+NumPy → Pandas → Matplotlib/Seaborn
+
+Scikit-learn
+
+TensorFlow / PyTorch
+
+NLP (spaCy, Transformers) / CV (OpenCV, torchvision)
+
+Advanced (XGBoost, LightGBM, MLflow, Dask, deployment tools)
