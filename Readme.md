@@ -296,3 +296,94 @@ TensorFlow / PyTorch
 NLP (spaCy, Transformers) / CV (OpenCV, torchvision)
 
 Advanced (XGBoost, LightGBM, MLflow, Dask, deployment tools)
+
+**************************************************************************
+
+**Types of Variables in Machine Learning :**
+
+<img width="1771" height="578" alt="image" src="https://github.com/user-attachments/assets/b14ea6d4-9868-400e-9e76-37f585b53693" />
+
+🔹 1. Based on Nature of Data
+a) Numerical Variables (Quantitative)
+
+Represent numbers → can measure or count.
+
+Types:
+
+Continuous → Can take any value in a range.
+
+Example: Height (172.5 cm), Temperature (36.7°C).
+
+Discrete → Countable, fixed gaps between values.
+
+Example: Number of children (0, 1, 2, 3), Number of cars.
+
+b) Categorical Variables (Qualitative)
+
+Represent groups/labels instead of numbers.
+
+Types:
+
+Nominal → Categories without order.
+
+Example: Gender (Male/Female/Other), City (Delhi, Mumbai).
+
+Ordinal → Categories with order/rank.
+
+Example: Education level (High School < Bachelor < Master < PhD), Customer feedback (Poor < Average < Good < Excellent).
+
+c) Binary Variables
+
+Special case of categorical with only two values.
+
+Example: Yes/No, True/False, Spam/Not Spam.
+
+d) Time-Series Variables
+
+Values collected over time, order matters.
+
+Example: Stock prices by date, Daily temperature.
+
+e) Text Variables
+
+Contain words/sentences (unstructured data).
+
+Example: Customer reviews, Tweets, Emails.
+
+f) Derived / Engineered Variables
+
+Created from existing data to add meaning.
+
+Example: From "Date of Birth" → derive "Age";
+From "Transaction Amount" → create "High/Low spend" category.
+
+🔹 2. Based on Role in ML Models
+a) Independent Variables (Features / Predictors)
+
+Input data used to predict.
+
+Example: Age, Salary, Education (used to predict loan approval).
+
+b) Dependent Variable (Target / Label)
+
+The outcome to predict.
+
+Example: Loan Approval (Yes/No), House Price.
+
+| Type                   | Example                          |
+| ---------------------- | -------------------------------- |
+| Numerical (Continuous) | Height = 170.5 cm, Temp = 36.7°C |
+| Numerical (Discrete)   | No. of Cars = 2, Children = 3    |
+| Categorical (Nominal)  | City = Delhi, Mumbai             |
+| Categorical (Ordinal)  | Education = Bachelor < Master    |
+| Binary                 | Spam = Yes/No                    |
+| Time-Series            | Stock Price by Date              |
+| Text                   | Review = "Product is great!"     |
+| Feature (X)            | Age, Income, Location            |
+| Target (y)             | Loan Approved = Yes/No           |
+
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/4a099e44-00dc-4926-9c97-22811779fc7d" />
+
+
+
